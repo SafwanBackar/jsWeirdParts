@@ -46,6 +46,15 @@ Day 1.
 9. var anonymousGreet = function(){console('hi')}. This is fn expression. It returns a value, an object. A fn object.
 10. First class funtions (passed as an argument). 
 
+Day 2.
+1. Call by reference (aliases refering to the same location in memory)(eg:objects) and call by value.(sitting completely in differnt spot in the memory)(variables)
+2. Setting up default parameters.(eg: var name; name = name || 'john doe';)
+3. When a spred operator is used as an argument in a funtion, all the data that comes in the spread will be in an array.
+
+Day 3.
+
+
+
 
 
 
