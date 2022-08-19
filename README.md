@@ -53,9 +53,12 @@ Day 2.
 
 Day 3.
 
-
-
-
+1. Automatic semicolon insertion.(Don't let js decide)
+2. Immadiately invoked function expression (iife) (4. - 15) 
+3. Running an anonymous fn without setting to a variable by wrapping it in (). So the js know that its an expression, it returns something. Also putting () after a fn is declared makes it run instantly.
+(
+  function(name){console.log('hello')}()
+) 
 
 
 
