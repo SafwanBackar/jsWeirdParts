@@ -60,12 +60,11 @@ Day 3.
   function(name){console.log('hello')}()
 ) 
 
-
-
-
-
-
-
+Chapter 4 : OOP
+===========
+1. Inheritance -  One object gets the props and methods of another object. Classical and prototypal inheritance. JS has prototypal Inheritance
+2. All object have a prototype property.  
+3. Reflection and extend. Extend - Combine objects?
 
 
 
