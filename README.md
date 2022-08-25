@@ -66,13 +66,9 @@ Chapter 4 : OOP
 2. All object have a prototype property.  
 3. Reflection and extend. Extend - Combine objects?
 
+Chapter 5 : Building objects
+=================
 
-
-
-
-
-
-
-
-
-
+1. Invoking a function using 'new' operator
+2. Function constructors   
+3. Polyfill
